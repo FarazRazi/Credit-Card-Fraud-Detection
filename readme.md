@@ -2,6 +2,8 @@
 
 This project uses machine learning to detect fraudulent transactions in credit card data.
 
+Dataset link: [mlg-ulb/creditcardfraud/code](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/code)
+
 ## Project Structure
 
 The main code is in the Jupyter notebook [src/data_preparations.ipynb](src/data_preparations.ipynb).
