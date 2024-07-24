@@ -2,7 +2,7 @@
 
 This project uses machine learning to detect fraudulent transactions in credit card data.
 
-Dataset link: [mlg-ulb/creditcardfraud/code](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/code)
+Dataset link: [mlg-ulb/creditcardfraud/code](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data)
 
 ## Project Structure
 
